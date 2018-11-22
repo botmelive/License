@@ -1,0 +1,56 @@
+﻿body
+{
+    background-image:url("ballpencomp.jpg");
+    background-repeat:no-repeat;
+    background-position:center top;
+    
+}
+
+.validator
+{
+    text-align:center;
+    font-family: 'Abel', sans-serif;
+    color:Red;
+}
+
+.formclass
+{
+    padding:65px;
+    margin:100px auto;
+    background:#fff;
+    width:160px;
+}
+
+
+h2{
+  color: #FCA311;
+  font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase;
+    width: 169px;
+    margin-left: 0px;
+}
+
+.input
+{
+    padding:8px;
+    margin:5px 5px 5px 5px;
+    width:100%;
+}
+
+.btn
+{
+    margin: 15px auto;
+    font-family: Abel;
+    padding:5px 10px 5px 10px;
+    font-size: 15px;
+    border: none;
+}
+
+.btn:hover
+{
+  background-color: #FCA311;
+  color:White;
+  transition: 0.3s ease-in-out;
+}

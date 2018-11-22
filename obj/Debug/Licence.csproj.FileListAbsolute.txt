@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2010\Projects\Licence\Licence\bin\Licence.dll
+E:\Documents\Visual Studio 2010\Projects\Licence\Licence\bin\Licence.pdb
+E:\Documents\Visual Studio 2010\Projects\Licence\Licence\obj\Debug\Licence.dll
+E:\Documents\Visual Studio 2010\Projects\Licence\Licence\obj\Debug\Licence.pdb
+E:\Documents\Visual Studio 2010\Projects\Licence\Licence\obj\Debug\Licence.csprojResolveAssemblyReference.cache

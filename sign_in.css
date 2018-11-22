@@ -1,0 +1,111 @@
+﻿body
+{
+    background-image:url("ballpencomp.jpg");
+    background-repeat:no-repeat;
+    background-position:center top;
+    
+}
+
+#cover {
+  background:url("driverslicenseback.jpg") top center no-repeat;
+  height: 1080px;
+  position: relative;
+  top: -55px;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+.navigation {
+  background-color: rgba(255, 255, 255, 0.9);
+  overflow-y: auto;
+  position: fixed;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 10000;
+}
+
+a
+{
+  color: #14213D;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
+    
+}
+
+
+ul {
+  padding: 0;
+}
+
+li {
+  color: #14213D;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
+}
+
+#logo {
+  color: #FCA311;
+  font-family: 'Bai Jamjuree', cursive;
+  font-size: 32px;
+  padding: 0px 50px;
+}
+
+.formclass
+{
+    padding:65px;
+    margin:270px auto;
+    background:#fff;
+    width:160px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+h2{
+  color: #FCA311;
+  font-family: 'Abel', sans-serif;
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase; 
+}
+
+.input
+{
+    padding:8px;
+    margin:5px 5px 5px 5px;
+    width:100%;
+}
+
+.validator
+{
+    text-align:center;
+}
+
+.btn
+{
+    margin: 15px auto;
+    font-family: Abel;
+    padding:5px 10px 5px 10px;
+    font-size: 15px;
+    border: none;
+}
+
+.btn:hover
+{
+  background-color: #FCA311;
+  color:White;
+  padding:7px 12px 7px 12px;
+  transition: 0.3s ease-in-out;
+}
